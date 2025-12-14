@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina AI Finance",
+  "description": "A mobile-first AI expense tracker. Enter transactions via natural language or voice, and let Gemini parse the details automatically.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
